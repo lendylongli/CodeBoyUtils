@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodeBoyUtils.iml" filepath="$PROJECT_DIR$/CodeBoyUtils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-async-http/android-async-http.iml" filepath="$PROJECT_DIR$/android-async-http/android-async-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeBoyUtils.git.iml" filepath="$PROJECT_DIR$/CodeBoyUtils.git.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
     </modules>
   </component>
 </project>
